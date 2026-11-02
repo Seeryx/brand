@@ -21,3 +21,5 @@ One sentence: Seeryx is a non-custodial prediction market on Solana: crypto Up/D
 event markets resolved by UMA, traded in USDC with no SOL needed.
 
 Links: https://seeryx.com · https://x.com/seeryx_com · https://seeryx.com/developers · https://seeryx.com/transparency
+
+Listed on: <a href="https://polymart.app">Polymarket Tools Directory</a>
